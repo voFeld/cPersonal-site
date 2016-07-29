@@ -41,3 +41,33 @@ nav li a {
     display: block;
 
 }
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Open Sans';
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+section {
+    background-color: #ddd;
+}
+
+.column {
+    float:left;
+    width: 33.3%;
+}
+
+.column-inner {
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    padding: 20px;
+}
+
+.row {
+    margin-top: 15%;
+}
